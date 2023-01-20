@@ -120,11 +120,19 @@ function Header(){
                                     }
                                 })
                             }
+                            <a href="https://www.facebook.com/sieu.trum.79">
                     <FontAwesomeIcon icon={faFacebook} style={{
                         color: "#1877f2"
-                    }}/>
+                    }}
+                    />
+                            </a>
+                            <a href="https://www.facebook.com/sieu.trum.79">
                     <FontAwesomeIcon icon={faInstagram}/>
+                    </a>
+                    <a href="https://github.com/TranVanDinh15">
                     <FontAwesomeIcon icon={faGithub}/>
+                    </a>
+
                         </ul>
                 </div>
                     :''
